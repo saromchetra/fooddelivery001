@@ -2,7 +2,7 @@
 
 - [Watch on youtube](https://www.youtube.com/channel/UCebdRQ3heHIMTuHTwmE7TSQ)
 
-![Food Delivery App UI](https://cdn.dribbble.com/userupload/4645121/file/original-c92042dad4851a966180d355f500230d.jpg?compress=1&resize=2048x1536)
+![Food Delivery App UI](https://cdn.dribbble.com/userupload/4645124/file/original-3488d3c8c313ee20175bfdb6a99bfa76.jpg?compress=1&resize=1504x1128&vertical=center)
 
 A new Flutter project.
 
